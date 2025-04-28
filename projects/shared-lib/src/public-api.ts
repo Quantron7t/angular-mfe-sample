@@ -3,3 +3,4 @@
  */
 
 export * from './lib/shared-lib.service';
+export * from './lib/auth-lib.service';
